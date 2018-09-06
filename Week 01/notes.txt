@@ -9,7 +9,7 @@ g++ blank.cpp                               # compile your code
 echo $? #>>> 0
 
 
-g++ hello.cpp
+g++ -c hello.cpp
 objdump -D hello.o
 
 
