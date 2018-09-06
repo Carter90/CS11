@@ -4,7 +4,7 @@
  * Filename: .cpp
  * Example name: 
  * Description: 
- * Code status: Broke dont run me
+ * Code status: Working!
  * Program compile: 
  * Errors or warnings: 
  * Comments: 
