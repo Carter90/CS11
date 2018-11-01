@@ -10,23 +10,9 @@ what compliation is cout >>> 640AF >> 1010101...10101
 
 cd /home/carter/Dropbox/CISCSClasses/CS11SI # go into the directory
 g++ blank.cpp                               # compile your code
-./a.out #>>> Greetings!        
+./a.out #>>> Greetings!
 echo $? #>>> 0
-
 
 g++ -c hello.cpp
 objdump -D hello.o
-
-
-#include <iostream>
-
-int main() {
-  std::cout << "Hello World!\n";
-  int me = 1;
-  me = 4;
-  std::cout << me;
-  double me2 = 2.2;
-  std::cout << me2;
-}
-
 

@@ -1,12 +1,12 @@
 /** 
  * Name: Carter Frost 
  * Email: Carter90@gmail.com
- * Filename: .cpp
- * Example name: 
+ * Filename: blank.cpp
+ * Example name: mains
  * Description: 
  * Code status: Working!
- * Program compile: 
- * Errors or warnings: 
+ * Program compile: Yes
+ * Errors or warnings: None
  * Comments: 
  */
 #include <iostream>
@@ -27,4 +27,18 @@ return(0);
 int main() {
 	cout << "Greetings!\n" << endl; //this prints out "Greetings!" and a new line
 } //end main
+
+#include <iostream>
+
+int main() {
+  std::cout << "Hello World!\n";
+  int me = 1;
+  me = 4;
+  std::cout << me;
+  double me2 = 2.2;
+  std::cout << me2;
+}
+
 */
+
+
