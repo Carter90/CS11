@@ -1,11 +1,12 @@
 # Week  Material for CS11 SI 
 
-A pemdas question this was some of the code we used
+## Pemdas example
 ```C++
 cout << "1 + 2 * 3 =" << (1 + 2 * 3) << endl;  //prints  1 + 2 * 3 =7
 cout << "(1 + 2) * 3 ="  << ((1 + 2) * 3) << endl;  //prints (1 + 2) * 3 =9
 ```
 
+## Rounding example using casting and cmath's ceil
 ```C++
 #include <cmath> //ceil
 
