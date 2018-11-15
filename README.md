@@ -21,3 +21,6 @@ Can arrive here via carter.page.link/11
 [Session 15](https://drive.google.com/open?id=10tErKTUyhthyVDOuIn89LqOn7dF2GaBdwLM9suXM4f8)  
 [Session 16](https://drive.google.com/open?id=1D23gmbvcDt2aR_iL35tOMZvo78Z_dtJEjSkfBlDKzFo)  
 [Session 17](https://drive.google.com/open?id=1YmIMQR788156V0ICtRmLi3DVogFrvkyExcjaOMXUI0Y)  
+[Session 18/19](https://drive.google.com/open?id=1DDquFnwj1QwAlxkAGmkuz6KKdPd2EpSFQJ6yR1PWT6A)  
+[Session 20](https://drive.google.com/open?id=126vag8WcD5lGiAA2RLPJJfv485SjiTkkku5KCInA77Q)  
+
