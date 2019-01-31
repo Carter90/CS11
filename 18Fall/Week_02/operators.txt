@@ -1,0 +1,23 @@
++ (addition)
+- (subtraction)
+* (multiplication)
+/ (division)
+% (modulus)
+
+== (equality)
+!= (inequality)
+> (greater-than)
+< (less-than)
+>= (greater-than-or-equal-to)
+<= (less-than-or-equal-to)
+
+! (NOT)
+&& (AND)
+|| (OR)
+
+^ (XOR)
+| (OR)
+& (AND)
+~ (complement)
+<< (shift left, insertion to stream)
+>> (shift right, extraction from stream)
