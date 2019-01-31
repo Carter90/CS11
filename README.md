@@ -6,7 +6,10 @@ During the sessions you can use [repl.it](https://repl.it/site/languages/cpp)
 Can arrive here via carter.page.link/11
 
 
-## Presentations
+## Presentations from Spring of 2019
+[Session 1]()
+
+## Presentations from Fall of 2018
 [Session 1](https://drive.google.com/open?id=1pS_J3_XUL5eYGV-eiZLHZH_rgLd2U3gAROQINQnxDvk)  
 [Session 2/3](https://drive.google.com/open?id=1Naf2xUPPTr7BsGFOis0rmHxMbAihgMA0cK9Lm57qWf4)  
 [Session 4](https://drive.google.com/open?id=12wxhfRcD-YpUHIEUFXESjZuoK9rRiKiDqNpAhOG6oVM)  
