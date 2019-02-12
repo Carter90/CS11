@@ -7,7 +7,8 @@ Can arrive here via carter.page.link/11
 
 
 ## Presentations from Spring of 2019
-[Session 1]()
+[Session 1](https://docs.google.com/presentation/d/1q8cYJOJW0Efehysx_uvYKGihSCXIKjFr-8gowhNxJu4/edit?usp=sharing)
+[Session 2](https://drive.google.com/open?id=1Fg4WTABJa0KA3tHYrKH2GQBFVpEhnXoVpMdNaVzZslw)
 
 ## Presentations from Fall of 2018
 [Session 1](https://drive.google.com/open?id=1pS_J3_XUL5eYGV-eiZLHZH_rgLd2U3gAROQINQnxDvk)  
