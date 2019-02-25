@@ -5,6 +5,7 @@ During the sessions you can use [repl.it](https://repl.it/site/languages/cpp)
 
 Can arrive here via carter.page.link/11
 
+# [Live Meeting](https://cccconfer.zoom.us/meeting/register/b68fd046710a94f7cde7dc3c8da9331e )
 
 ## Presentations from Spring of 2019
 [Session 1](https://docs.google.com/presentation/d/1q8cYJOJW0Efehysx_uvYKGihSCXIKjFr-8gowhNxJu4/edit?usp=sharing)  
