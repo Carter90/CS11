@@ -10,11 +10,11 @@ Can arrive here via carter.page.link/11
 ## Presentations from Spring of 2019
 [Session 1](https://docs.google.com/presentation/d/1q8cYJOJW0Efehysx_uvYKGihSCXIKjFr-8gowhNxJu4/edit?usp=sharing)  [Recording](https://youtu.be/jZdeDLN4fP0)  
 [Session 2](https://drive.google.com/open?id=1Fg4WTABJa0KA3tHYrKH2GQBFVpEhnXoVpMdNaVzZslw)  [Recording](https://youtu.be/jZdeDLN4fP0)  
-[Session 3](https://drive.google.com/open?id=1ji9h3eczW63P6_Htgp_X9A_vzmdt6k9uVKEpAx_rw4o)
+[Session 3](https://drive.google.com/open?id=1ji9h3eczW63P6_Htgp_X9A_vzmdt6k9uVKEpAx_rw4o)  
 
 ## Presentations from Fall of 2018
-[Session 1](https://drive.google.com/open?id=1pS_J3_XUL5eYGV-eiZLHZH_rgLd2U3gAROQINQnxDvk) 
-[Session 2/3](https://drive.google.com/open?id=1Naf2xUPPTr7BsGFOis0rmHxMbAihgMA0cK9Lm57qWf4) 
+[Session 1](https://drive.google.com/open?id=1pS_J3_XUL5eYGV-eiZLHZH_rgLd2U3gAROQINQnxDvk)  
+[Session 2/3](https://drive.google.com/open?id=1Naf2xUPPTr7BsGFOis0rmHxMbAihgMA0cK9Lm57qWf4)  
 [Session 4](https://drive.google.com/open?id=12wxhfRcD-YpUHIEUFXESjZuoK9rRiKiDqNpAhOG6oVM)  
 [Session 5](https://drive.google.com/open?id=1_x87mbHhUGxq22C2C_ddkNlP7-Aym5hxtgu5LAQRKyw)  
 [Session 6](https://drive.google.com/open?id=1oxKOHbUFxx3L1rqIDJb6Np5jkz7OHtbKNV8Cd0fdfA4)  
