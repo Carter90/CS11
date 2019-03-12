@@ -20,14 +20,14 @@ using namespace std;
 	 */	
 int main(int argc, char *argv[]) {
 	bool is_big = true;
-	int t = 31;
+	int t = 20;
 	if (t > 50) { 
 		cout << "yo";
 	} //end if t > 50
 	else if (t > 20){ 
 		cout << "dog";
 	} //end else if t > 20
-	else { // if t < 20 same as `else if (t <= 20){`
+	else { // `else if (t <= 20){`
 		cout << "smallz";
 	} //end else t < 20 
 	
