@@ -67,8 +67,14 @@ do{
 Notice we did not need to initilize responce2 with the do while as it will be overwritten by the user before we look at it.
 With the while loop we had to force it to be true the first time. 
 
-##Old for loop
-```C++ 
+## Old for loop
+```C++
+//now replaced by for(int i=0; i < 10; i++){cout << "i:" << i << endl;} 
+int i =0;
+while(i < 10){
+  cout << "i:" << i << endl;
+  i++;
+}//end while
 ```
 Problem is that the i varable is still around after its done
 
