@@ -91,22 +91,25 @@ for(int i =0; i < age; i++){
 
 # Scope
 For right now we can think of it as anyting inside any curly brace could just be {} like if(){} or a loop like while(){} etc.
-
+```C++ 
 int main(){
   int a = 1;
   { // child begin 
     int b = 2;
     a = 11;
-    { // grand child begin 
+    { // grandchild begin 
       int c = 3;
       a = 111;
       cout << "c:" << c << endl;
-    } // grand child end 
+    } // grandchild end 
   cout << "b:" << b<< endl;
   } //end child
   cout << "a:" << a<< endl;
   //Can we access b or c here? 
 } //end main
+```
+The childern can access and modity their parents like child can access and change mains varables and the changes are preserved even after the childern are done, but main can not acess its child's or grandchild's varables. 
+Same with the grandchild it can access and modity it's parent's(child) and mains varables, but child can not acess its child's(grandchild) varables.
 
 ```C++ 
 int t;
