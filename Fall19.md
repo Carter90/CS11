@@ -139,4 +139,23 @@ What prints out, which foo is foo?
 How do we access the outside one(it's ugly)? 
 Do you see the issue now?
 
+## FizzBuzz Game
+Good improv exercise or elementry playground game
+```C++
+#include <iostream>
+using namespace std;
+int main() {
+  cout << "Lets play fizzbuzz, how many numbers do you want to count to?";
+  int count =0;
+  cin >> count;
+  for(int i =0; i < count;i++){
+    if((i%3 ==0) && (i%5 ==0)){cout << "FizzBuzz"<< endl;}
+    else if(i%5 ==0){cout << "Buzz"<< endl;}
+    else if(i%3 ==0){cout << "Fizz"<< endl;}
+    else{ cout << i << endl;}
+
+ } //end for loop
+}//end main
+```
+
 
