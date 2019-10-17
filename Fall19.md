@@ -158,4 +158,33 @@ int main() {
 }//end main
 ```
 
+# Functions become what they return
+```C++
+#include <iostream>
+using namespace std;
+
+double add(double i, double j){
+  return(i + j);
+}//end add
+
+void print(double printme){
+  cout << printme << endl;
+}//end print
+
+int main() { print(add(11,22)); }
+```
+
+# Question was how to get each digit from an int
+```C++
+  int get_my_digits = 831;
+  int digit;
+
+  digit = get_my_digits%10; //==1 this will get us the first digit
+  get_my_digits = get_my_digits / 10; //==83 this will get rid of the digit we just got from the number  
+  digit = get_my_digits%10; //==3 this will get us the second digit 
+  get_my_digits = get_my_digits / 10; //==8 this will get rid of the digit we just got from the number  
+  digit = get_my_digits%10; //==8 this will get us the third digit 
+  
+``` 
+Could you possiblity put this into a loop what might be the condition? (get_my_digits > 10)?
 
