@@ -188,3 +188,24 @@ int main() { print(add(11,22)); }
 ``` 
 Could you possiblity put this into a loop what might be the condition? (get_my_digits > 10)?
 
+# Solution from Russian Nesting Doll Activity
+```C++
+#include <iostream>
+#include <cmath>
+using namespace std;
+//division numerator
+//double n(int x){return(pow(x+3,2));}
+double n(int x){return((x+3)*(x+3));}
+
+int plus_one(int y){return(y+1);}
+//division denominator
+double d(int x, int y){return(sqrt(plus_one(y))+6+x);}
+
+double f(int x,int y){
+  return(n(x)/d(x,y));
+} //end f
+int main() {
+
+  cout << f(11,3) << endl;
+}
+``` 
